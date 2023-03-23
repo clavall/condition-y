@@ -27,7 +27,6 @@ $(function() {
     // **Number** **of** **"likes"**
     // Each received "like" is indicated by the timepoint (in ms) at which the "like" will appear. To change the number of "likes" in each condition, add or remove timepoints. Make sure that every timepoint (except the first) is preceded by a single comma.
     // User will receive 6 likes at the following timepoints (in ms).
-    //window.settings.condition_likes = [10000,35000,80000,100000,132000,150000];
     window.settings.condition_likes = [10000,11111];
 
 	  // **Others' likes**
